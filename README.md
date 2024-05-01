@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carolfmayca
 - 👀 I’m interested in cybersecurity and machine learning
 - 🌱 I’m currently learning machine learning, c++, 
-- 📫 How to reach me carolina.mayca@icomp.ufam.edu.br
+- 📫 How to reach me carolina.mayca@icomp.ufam.edu.br or carolfmayca@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
